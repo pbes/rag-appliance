@@ -31,7 +31,8 @@ class RagBackendController {
 	}
 }
 
-// TODO DB hozzáadása (PostgreSQL)
+// TODO Flyway, JPA, PostgreSQL
+// TODO DB hozzáadása (PostgreSQL), táblák létrehozása
 // TODO user & thread tárolás a frontend oldalról
 // TODO frontend küldje át a history-t a backend oldalra
 // TODO kérdés - válasz párokat tárolni, reinforcement learning
