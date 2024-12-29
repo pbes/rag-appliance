@@ -31,6 +31,7 @@ class RagBackendController {
 	}
 }
 
+// TODO singleton RagAnswweringAction & chat model, reconnect if Ollama server is not available, retry, circuit breaker
 // TODO Flyway, JPA, PostgreSQL
 // TODO DB hozzáadása (PostgreSQL), táblák létrehozása
 // TODO user & thread tárolás a frontend oldalról
