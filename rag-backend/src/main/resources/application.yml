@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: rag-backend
+
+rag:
+  ollama-url: http://192.168.0.44:11434
+  ollama-model: llama3.1:latest
+  document-path: /home/pbes/Downloads/carbonara_recept.txt
